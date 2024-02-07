@@ -30,7 +30,7 @@ As a user on The Stack you can search for and view groups in your area, and view
 ### Implementation
 
 #### Database
-Schema...
+[Our Database schema](https://github.com/Jakersnell/TheStack/blob/main/Resources/Images/stackdiagram.png?raw=true)
 
 
 ### Technologies and Methodologies Used
