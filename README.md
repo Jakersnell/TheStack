@@ -20,12 +20,10 @@
 #### Final Team Project undertaken as members of Skill Distillery
 
 ### Overview
-The Stack is a social platform designed for programmers to find local meet up events anywhere in the US.
+The Stack is a social platform designed for programmers to find local meet up events anywhere in the US. 
 
 ### Description
-The Stack ...
-<br><br>
-As a user, you can...
+As a user on The Stack you can search for and view groups in your area, and view events that are within public groups. By logging in or signing up you can view private events for groups you are in, and create groups or events.
 
 ### Implementation
 
