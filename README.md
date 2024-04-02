@@ -17,7 +17,7 @@
 
 ## The Stack
 
-[View The Website Live Here!](http://52.91.240.2:8080/Stack/#/home)
+[View The Website Live Here!](http://172.234.29.146:8080/THESTACK)
 
 #### Final Team Project undertaken as members of Skill Distillery
 
