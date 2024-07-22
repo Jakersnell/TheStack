@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="#" target="blank_">
+    <a href="http://172.234.29.146:8080/THESTACK/#/home" target="blank_">
         <img height="100" alt="Stack Logo" src=https://github.com/Parrisu/FinalProject/blob/main/Resources/Images/stackicon.png/>
     </a>
     <br>
@@ -16,6 +16,7 @@
 
 
 ## The Stack
+
 
 [View The Website Live Here!](http://13.56.117.221:8080/Stack/#/home)
 
